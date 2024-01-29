@@ -7,7 +7,7 @@ PAGE_TITLE = "Digital CV | David Finney"
 PAGE_ICON = ":wave:"
 NAME = 'David Finney'
 DESCRIPTION = """
-Hydrogeologist, Data Scientist, Project Manager finding solutions to client needs.
+Hydrogeologist, Data Scientist, Project Manager finding solutions that meet client needs.
 """
 EMAIL = 'dmnfinney87@gmail.com'
 
